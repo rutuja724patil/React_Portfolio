@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Java Developer - Intern",
+    "organisation": "R3 Systems India Pvt.Ltd",
+    "startDate": "June, 2023",
+    "endDate": "July,2023",
+    "location": "Shirpur,Maharashtra",
+    "experiences": [
+      "Worked in both Core Java and Advanced Java ",
+      "Contributing to the completion 6 projects"
+    ]
+    
+  },
+  {
+    "id": 2,
+    "role": "Web Developer - Intern",
+    "organisation": "Oasis Infobyte",
+    "startDate": "March, 2023",
+    "endDate": "April, 2023",
+    "location": "Mumbai,Maharashtra",
+    "experiences": [
+      "Worked on 3 project",
+      "Successfully identified and resolved website issues"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Java Developer - Intern",
+    "organisation": "Magnet Tech",
+    "startDate": "May, 2023",
+    "endDate": "June, 2023",
+    "location": "Mumbai,Maharashtra",
+    "experiences": [
+      "Gained hands-on Java programming experience during my internship",
+      "successfully optimized MySQL database"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
